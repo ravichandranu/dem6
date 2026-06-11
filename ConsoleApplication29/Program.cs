@@ -12,6 +12,7 @@ namespace ConsoleApplication29
             Console.WriteLine("hello world");
             Console.WriteLine("new line added");
             Console.WriteLine("Hello");
+            // issue resolved
         }
     }
 }
